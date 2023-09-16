@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=todoapp
+Exec=todoapp 
+Icon=todoapp
+Keywords=fyne;
